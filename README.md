@@ -14,7 +14,7 @@ Welcome to Whack-a-Mole, a classic arcade game where your reflexes will be put t
 ## Getting Started
 
 1. Clone this repository to your local machine:
-```git clone https://github.com/your-username/whack-a-mole-game.git```
+```git clone https://github.com/McDonaghMichael/Whack-A-Mole.git```
 
 3. Navigate to the project directory:
 ```cd WhackAMole```
